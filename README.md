@@ -1,5 +1,5 @@
 # 💫 About Me:
-web development experience, either freelancing or corporate. I'm able to utilize my skills to craft a website based on what client/project needs. Whether it is, WordPress base site or frontend framework such us Vue JS or combine of these two amazing tools, plus! some of the cloud services.
+Experienced web developer skilled in crafting tailored web solutions. Proficient in WordPress, Vue.js, and cloud services. Let's build something great together!
 
 
 ## 🌐 Socials:
