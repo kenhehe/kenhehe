@@ -1,5 +1,5 @@
 # 💫 About Me:
-Experienced web developer skilled in crafting tailored web solutions. Proficient in WordPress, Vue.js, and cloud services. Let's build something great together!
+A Web developer skilled in WordPress, Vue JS, and JavaScript, focused on building responsive sites, integrating APIs, and crafting user-friendly interfaces. Experienced in freelance and team-based projects, with growing involvement in SEO. Also engaged in web design and UI/UX, ensuring visual consistency and usability across platforms. Familiar with cloud platforms like Google Cloud and AWS, primarily through front-end integration and collaborative workflows.
 
 
 ## 🌐 Socials:
